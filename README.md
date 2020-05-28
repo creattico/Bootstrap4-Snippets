@@ -1,6 +1,6 @@
-# Bootstrap 4 Support for Atom
+# Bootstrap 4 Completition Atom
 
-Provides [Bootstrap 4][1] classes and HTML tags with autocompletion features.
+Provides [Bootstrap 4][1] classes and HTML tags with autocompletion features. It is based on [v-bootstrap4][4] repository by [thevuong][5]
 
 Install:
 ```ssh
@@ -58,3 +58,5 @@ The plugin has Glyphicon and Fontawesome support.
 [1]: http://v4-alpha.getbootstrap.com/
 [2]: http://glyphicons.com/
 [3]: https://fortawesome.github.io/Font-Awesome/
+[4]: https://github.com/thevuong
+[5]: https://github.com/thevuong/v-bootstrap4
