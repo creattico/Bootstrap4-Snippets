@@ -4,7 +4,7 @@ Provides [Bootstrap 4][1] classes and HTML tags with autocompletion features. It
 
 Install:
 ```ssh
-apm install v-bootstrap4
+apm install Bootstrap4-Completition
 ```
 
 Key Features:
